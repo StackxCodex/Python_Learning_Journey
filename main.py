@@ -5,3 +5,5 @@ School = "Maestro University"
 print("I'm currently an AI software engineer student at " + School + ".")
 print("" + School + " has giving me an opportunity to return to school after 20 years.")
 print("I am currently learning Python and how to use GitHub.")
+print("I'm excited to learn more, I think my first task will be Affirmation Quote Generator.")
+    
