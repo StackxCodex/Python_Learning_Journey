@@ -55,3 +55,25 @@ print(last_letter)
 
 #If we want to start from the right and we can use negative indexing, -1 is the last index
 language + "Python"
+last_letter = language[-1]
+print(last_letter)
+second_last = language[-2]
+print(sond_last)
+
+#Slicing
+language = 'Python'
+first_three = language[0:3]
+print(first_three)
+last_three = language[-3:6]
+print(last_three)
+
+# Skipping characters while slicing
+language = 'Python'
+pto = language[0:6:2]
+print(pto)
+
+# Escape sequences
+print(' hope everyone is enjoying the python challenge.\n Do you?')
+print('Days\tTopics\tExercises')
+print('Day 1\t3\t5')
+')
